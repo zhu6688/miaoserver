@@ -18,7 +18,7 @@ var Email = {
         host: "smtp.qq.com",
         port: 587,
         auth: {
-            user: '750224@qq.com', 
+            user: '224@qq.com', 
             pass: 'utaamsyeitfebjcf' 
         }
     },
